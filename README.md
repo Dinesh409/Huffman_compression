@@ -6,7 +6,7 @@ work during my Master's degree under the course Information Theory at the Univer
 
 If there are any questions you can directly email me at:
 dinesh.tamang@student.unisi.it
-d.tamang@studenti.unipi.it
+dinesh.tamang@phd.unipi.it
 
 or my personal email:
 tamangdinesh409@gmail.com
@@ -21,10 +21,3 @@ since the program has been done for block size upto 8.
 same or not. For this you have to enter original text file name and the one which you
 recovered. At the end both files must be equal. Since encoding is lossless.
 6)The technical report is in the 'Report' folder.
-
-Thanks alot
-Tamang Dinesh
-PhD in Smart Industry
-University of Pisa, Italy
-Student no:65132
-2020
